@@ -1,10 +1,10 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXTINF:0, tvg-logo="" group-title="",Toonami Aftermath East EST
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20east.jpg" group-title="",Toonami Aftermath East EST
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8?useHttps=true
-#EXTINF:0, tvg-logo="" group-title="",Toonami Aftermath West PST
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20west.jpg" group-title="",Toonami Aftermath West PST
 http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180&amp;useHttps=true
-#EXTINF:0, tvg-logo="" group-title="",Toonami Aftermath Movies
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20movies.jpg" group-title="",Toonami Aftermath Movies
 http://api.toonamiaftermath.com:3000/movies/playlist.m3u8?useHttps=true
-#EXTINF:0, tvg-logo="" group-title="",Toonami Aftermath Radio
+#EXTINF:0, tvg-logo="https://raw.githubusercontent.com/kbmystery7/TAM3U8/main/ta%20wall%20thumb%20radio.jpg" group-title="",Toonami Aftermath Radio
 http://api.toonamiaftermath.com:3000/radio/playlist.m3u8?useHttps=true
